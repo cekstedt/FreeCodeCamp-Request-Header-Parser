@@ -1,0 +1,11 @@
+{
+  "name": "Request Header Parser Microservice",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-Request-Header-Parser",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice",
+  "hosted": "https://materialistic-gray-william.glitch.me/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["js", "node", "express"]
+}
